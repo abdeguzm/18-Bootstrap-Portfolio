@@ -1,0 +1,53 @@
+/* Fonts */
+.h1, h2, h3, li, .blockquote-footer, .card-title, .table_color, .text-muted{
+    font-family: 'Nunito', sans-serif;
+}
+
+.p, .media-body, .card-text, td{
+    font-family: 'Noticia Text', serif;
+}
+
+.navbar-brand, .mt-0{
+    font-family: 'Nunito', sans-serif;
+}
+
+/* Colors */
+.bg_color{
+    background-color: #FFFAF0;
+}
+
+.card_color{
+    background-color: #8D7152; 
+}
+
+.button_color{
+    background-color: #A9D9EC;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+
+.table_color{
+    background-color: #A9D9EC;
+}
+
+/* Cards */
+.center{
+    text-align: center;
+}
+
+.contain{
+    object-fit: contain;
+}
+
+.card-img-top{
+    height: 220px;
+}
+
+/* Footer */
+.container{
+    background-color: #A9D9EC;
+}
+
+.text-muted{
+    padding-left: 15px;
+}
